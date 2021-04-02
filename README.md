@@ -1,4 +1,4 @@
-# cohort_analysis_on_Google_Colab_with_Cloud_SQL
+# cohort analysis on Google Colab with Cloud_SQL
 This repo demonstrates how to connect to an online database instance using proxy, perform cohort analysis on Google Colab and export output google sheets.  
 
 Cohort analysis is a common behavioral analytics. Basically we group of users with the same characteristic as a cohort and perform analysis. For example, we can perform cohort analysis on customers of a service. We can group them by registration date and analyze their spending behaviour over the time which allows us to deduce valuable insights about sales and marketing strategies that different groups experience. 
